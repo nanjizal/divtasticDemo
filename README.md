@@ -16,7 +16,7 @@ Some of the old divtastic demos, they use div strips to draw with.
 
 [bezier quadratic chain](https://rawgit.com/nanjizal/divtasticDemo/master/bezier_chain/BezierChain.html)
 
-## Clock
+## Div Clock
 
 ![clock](https://user-images.githubusercontent.com/20134338/27893784-d10a74ba-61ff-11e7-9fc2-7775bb8e061b.png)
 
